@@ -12,6 +12,8 @@ THIS WILL REQUIRE SOME EDITING TO GET THE SCRIPT TO WORK, SINCE IT WAS MADE FOR 
 
 3.) Designate or create an output folder for your molds. this is where your molds will be outputted to.
 
+3.) See comments in line 104, and edit the code as needed for your use case.
+
 4.) create a mold builder class, or edit the one already bing used in molder.py and designate your input and output directories, as well as the mold_base and mold_nothing file provided.
 
 5.) run and compile the python program, and get ready for mold!
