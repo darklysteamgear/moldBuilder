@@ -3,7 +3,7 @@
 
 This is a simple python script I created using OpenCV to help me automate creating molds through generating immersive engineering molds for my modpack. It generates new molds by first using openCV to "Cut" out molds for every 16x16 item texture inside of a designated folder. after it does this, it generates zenscript code based on the names of each item input to create code. this code is outputted to the console, and can be inserted into your craft tweaker script to add each mold into minecraft.
 
-THIS WILL REQUIRE SOME EDITING TO GET THE SCRIPT TO WORK, SINCE IT WAS MADE FOR A SPECIFIC USE CASE.
+THIS WILL REQUIRE SOME EDITING TO GET THE SCRIPT TO WORK, SINCE IT WAS MADE FOR A SPECIFIC USE CASE. SEE LINE 104
 
 ### TO USE:
 1.) Make sure you have python! this is a python script
